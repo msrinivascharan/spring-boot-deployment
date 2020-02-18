@@ -1,5 +1,4 @@
-## Spring Boot Deployment
-
+## Spring Boot Deployment | DevSecOps
 This module contains articles about deployment of a Spring Boot Application
 
 ### Relevant Articles:			
