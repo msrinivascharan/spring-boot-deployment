@@ -1,5 +1,5 @@
 package com.baeldung.compare;
-
+//Comnt
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
