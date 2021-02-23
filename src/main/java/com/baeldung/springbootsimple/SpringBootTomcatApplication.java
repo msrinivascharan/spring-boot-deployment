@@ -3,7 +3,7 @@ package com.baeldung.springbootsimple;
 import org.springframework.boot.*;
 import org.springframework.boot.autoconfigure.*;
 import org.springframework.boot.web.servlet.support.*;
-
+// comnt
 @SpringBootApplication
 public class SpringBootTomcatApplication extends SpringBootServletInitializer {
 
